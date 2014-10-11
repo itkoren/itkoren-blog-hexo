@@ -1,0 +1,6 @@
+[submodule "source/_posts"]
+	path = source/_posts
+	url = https://github.com/itkoren/itkoren-blog-hexo-posts.git
+[submodule "themes/itkoren"]
+	path = themes/itkoren
+	url = https://github.com/itkoren/itkoren-blog-hexo-theme.git
